@@ -1,0 +1,15 @@
+/Users/degerahmet/Desktop/Projects/school/DEV120/bin/Debug/net9.0/DEV120
+/Users/degerahmet/Desktop/Projects/school/DEV120/bin/Debug/net9.0/DEV120.deps.json
+/Users/degerahmet/Desktop/Projects/school/DEV120/bin/Debug/net9.0/DEV120.runtimeconfig.json
+/Users/degerahmet/Desktop/Projects/school/DEV120/bin/Debug/net9.0/DEV120.dll
+/Users/degerahmet/Desktop/Projects/school/DEV120/bin/Debug/net9.0/DEV120.pdb
+/Users/degerahmet/Desktop/Projects/school/DEV120/obj/Debug/net9.0/DEV120.GeneratedMSBuildEditorConfig.editorconfig
+/Users/degerahmet/Desktop/Projects/school/DEV120/obj/Debug/net9.0/DEV120.AssemblyInfoInputs.cache
+/Users/degerahmet/Desktop/Projects/school/DEV120/obj/Debug/net9.0/DEV120.AssemblyInfo.cs
+/Users/degerahmet/Desktop/Projects/school/DEV120/obj/Debug/net9.0/DEV120.csproj.CoreCompileInputs.cache
+/Users/degerahmet/Desktop/Projects/school/DEV120/obj/Debug/net9.0/DEV120.sourcelink.json
+/Users/degerahmet/Desktop/Projects/school/DEV120/obj/Debug/net9.0/DEV120.dll
+/Users/degerahmet/Desktop/Projects/school/DEV120/obj/Debug/net9.0/refint/DEV120.dll
+/Users/degerahmet/Desktop/Projects/school/DEV120/obj/Debug/net9.0/DEV120.pdb
+/Users/degerahmet/Desktop/Projects/school/DEV120/obj/Debug/net9.0/DEV120.genruntimeconfig.cache
+/Users/degerahmet/Desktop/Projects/school/DEV120/obj/Debug/net9.0/ref/DEV120.dll
