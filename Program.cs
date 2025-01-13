@@ -1,17 +1,17 @@
 ﻿
 
-namespace DEV120 {
+namespace HW1 {
     class Fruit{
         public int Weight { get; set; }
-        public string Name { get; set; }
+        public string Color { get; set; }
 
         public Fruit(int weight, string name){
             Weight = weight;
-            Name = name;
+            Color = name;
         }
 
         internal void PrintFruits(){
-            Console.WriteLine($"Name: {Name}, Weight: {Weight}");
+            Console.WriteLine($"Color: {Color}, Weight: {Weight}");
         }
     }
 }
